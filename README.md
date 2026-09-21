@@ -12,3 +12,9 @@ Steps followed:
 2) ASP.NET can receive a request.
 3) The default generated controller will handle the request.
 4) A JSON response is returned.
+# Test that the api works:
+Locate the quickAPITemplate.http file.
+Make sure the server is running.  
+Click on send request
+<img width="612" height="193" alt="image" src="https://github.com/user-attachments/assets/20fb967b-022a-4c75-bd89-3c311307c158" />
+
