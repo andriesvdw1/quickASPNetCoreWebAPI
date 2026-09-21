@@ -7,3 +7,8 @@ Steps followed:
 4) Allow the certificate once requested.
 5) Observe the output in the terminal
 <img width="813" height="237" alt="image" src="https://github.com/user-attachments/assets/bff8ed32-eeba-4977-ae55-d3da81aa0efb" />
+# What does the application contain so far:
+1) The client can send a request.
+2) ASP.NET can receive a request.
+3) The default generated controller will handle the request.
+4) A JSON response is returned.
