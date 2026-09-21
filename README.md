@@ -16,5 +16,7 @@ Steps followed:
 Locate the quickAPITemplate.http file.
 Make sure the server is running.  
 Click on send request
+# Expected output:
 <img width="612" height="193" alt="image" src="https://github.com/user-attachments/assets/20fb967b-022a-4c75-bd89-3c311307c158" />
+<img width="259" height="276" alt="image" src="https://github.com/user-attachments/assets/09379b5d-b02b-4b00-a4cf-bf05f30d88ba" />
 
