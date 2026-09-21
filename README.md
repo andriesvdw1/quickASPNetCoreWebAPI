@@ -19,6 +19,7 @@ Click on send request
 # Expected output:
 <img width="612" height="193" alt="image" src="https://github.com/user-attachments/assets/20fb967b-022a-4c75-bd89-3c311307c158" />
 <img width="259" height="276" alt="image" src="https://github.com/user-attachments/assets/09379b5d-b02b-4b00-a4cf-bf05f30d88ba" />
+
 # Alternatively test the GET request in a browser:
 <img width="385" height="552" alt="image" src="https://github.com/user-attachments/assets/a2f68dd0-16f3-4ac9-aeb1-1f85c7e265fd" />
 
