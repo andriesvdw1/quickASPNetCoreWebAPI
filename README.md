@@ -7,15 +7,18 @@ Steps followed:
 4) Allow the certificate once requested.
 5) Observe the output in the terminal
 <img width="813" height="237" alt="image" src="https://github.com/user-attachments/assets/bff8ed32-eeba-4977-ae55-d3da81aa0efb" />
+
 # What does the application contain so far:
 1) The client can send a request.
 2) ASP.NET can receive a request.
 3) The default generated controller will handle the request.
 4) A JSON response is returned.  
-# Test that the api works:
+
+# Test that the API works:
 Locate the quickAPITemplate.http file.
 Make sure the server is running.  
 Click on send request
+
 # Expected output:
 <img width="612" height="193" alt="image" src="https://github.com/user-attachments/assets/20fb967b-022a-4c75-bd89-3c311307c158" />
 <img width="259" height="276" alt="image" src="https://github.com/user-attachments/assets/09379b5d-b02b-4b00-a4cf-bf05f30d88ba" />
